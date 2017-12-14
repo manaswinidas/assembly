@@ -1,5 +1,10 @@
 # Changelog
 
+## 0.21.0
+
+- [style change] Scale down font sizes on small inputs.
+- [breaking] remove `input--xs`, `select--xs`, and `btn--xs`
+
 ## 0.20.0
 
 - Add filter, flame, instagram, qT icons.

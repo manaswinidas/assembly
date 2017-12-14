@@ -13,15 +13,16 @@ function HtmlExample(props) {
         dangerouslySetInnerHTML={{ __html: props.code }}
       />
       <div className="pre scroll-auto scroll-styled hmax240 border-l border-b border-r border--gray-light round-b relative">
-        {copy &&
+        {copy && (
           <div className="absolute top right px12 py12">
             <button
               data-clipboard-text={props.code}
-              className="ml3 btn btn--xs btn--darken25 round js-clipboard"
+              className="ml3 btn btn--s btn--darken25 round js-clipboard"
             >
               Copy
             </button>
-          </div>}
+          </div>
+        )}
 
         <Lowlight language="html" value={props.code} />
       </div>
