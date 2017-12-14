@@ -1371,7 +1371,7 @@ input:checked + .toggle--active-transparent {
 }
 
 input:checked + .switch--gray {
-  background-color: var(--gray-dark);
+  background-color: var(--gray);
 }
 
 input:checked + .switch--dot-gray::after {
@@ -1383,7 +1383,7 @@ input:checked + .switch--dot-gray::after {
 }
 
 input:checked + .switch--pink {
-  background-color: var(--pink-dark);
+  background-color: var(--pink);
 }
 
 input:checked + .switch--dot-pink::after {
@@ -1395,7 +1395,7 @@ input:checked + .switch--dot-pink::after {
 }
 
 input:checked + .switch--red {
-  background-color: var(--red-dark);
+  background-color: var(--red);
 }
 
 input:checked + .switch--dot-red::after {
@@ -1407,7 +1407,7 @@ input:checked + .switch--dot-red::after {
 }
 
 input:checked + .switch--orange {
-  background-color: var(--orange-dark);
+  background-color: var(--orange);
 }
 
 input:checked + .switch--dot-orange::after {
@@ -1419,7 +1419,7 @@ input:checked + .switch--dot-orange::after {
 }
 
 input:checked + .switch--yellow {
-  background-color: var(--yellow-dark);
+  background-color: var(--yellow);
 }
 
 input:checked + .switch--dot-yellow::after {
@@ -1431,7 +1431,7 @@ input:checked + .switch--dot-yellow::after {
 }
 
 input:checked + .switch--green {
-  background-color: var(--green-dark);
+  background-color: var(--green);
 }
 
 input:checked + .switch--dot-green::after {
@@ -1443,7 +1443,7 @@ input:checked + .switch--dot-green::after {
 }
 
 input:checked + .switch--blue {
-  background-color: var(--blue-dark);
+  background-color: var(--blue);
 }
 
 input:checked + .switch--dot-blue::after {
@@ -1455,7 +1455,7 @@ input:checked + .switch--dot-blue::after {
 }
 
 input:checked + .switch--purple {
-  background-color: var(--purple-dark);
+  background-color: var(--purple);
 }
 
 input:checked + .switch--dot-purple::after {
@@ -1467,7 +1467,7 @@ input:checked + .switch--dot-purple::after {
 }
 
 input:checked + .switch--darken25 {
-  background-color: var(--darken50);
+  background-color: var(--darken25);
 }
 
 input:checked + .switch--dot-darken25::after {
@@ -1479,7 +1479,7 @@ input:checked + .switch--dot-darken25::after {
 }
 
 input:checked + .switch--darken50 {
-  background-color: var(--darken75);
+  background-color: var(--darken50);
 }
 
 input:checked + .switch--dot-darken50::after {
@@ -1491,7 +1491,7 @@ input:checked + .switch--dot-darken50::after {
 }
 
 input:checked + .switch--darken75 {
-  background-color: var(--black);
+  background-color: var(--darken75);
 }
 
 input:checked + .switch--dot-darken75::after {
@@ -1503,7 +1503,7 @@ input:checked + .switch--dot-darken75::after {
 }
 
 input:checked + .switch--lighten25 {
-  background-color: var(--lighten50);
+  background-color: var(--lighten25);
 }
 
 input:checked + .switch--dot-lighten25::after {
@@ -1515,7 +1515,7 @@ input:checked + .switch--dot-lighten25::after {
 }
 
 input:checked + .switch--lighten50 {
-  background-color: var(--lighten75);
+  background-color: var(--lighten50);
 }
 
 input:checked + .switch--dot-lighten50::after {
@@ -1527,7 +1527,7 @@ input:checked + .switch--dot-lighten50::after {
 }
 
 input:checked + .switch--lighten75 {
-  background-color: var(--white);
+  background-color: var(--lighten75);
 }
 
 input:checked + .switch--dot-lighten75::after {
@@ -1539,7 +1539,7 @@ input:checked + .switch--dot-lighten75::after {
 }
 
 input:checked + .switch--white {
-  background-color: var(--lighten75);
+  background-color: var(--white);
 }
 
 input:checked + .switch--dot-white::after {
@@ -1551,7 +1551,7 @@ input:checked + .switch--dot-white::after {
 }
 
 input:checked + .switch--transparent {
-  background-color: var(--darken10);
+  background-color: var(--transparent);
 }
 
 input:checked + .switch--dot-transparent::after {
@@ -4772,7 +4772,7 @@ input:checked + .toggle--active-transparent {
 }
 
 input:checked + .switch--gray {
-  background-color: var(--gray-dark);
+  background-color: var(--gray);
 }
 
 input:checked + .switch--dot-gray::after {
@@ -4784,7 +4784,7 @@ input:checked + .switch--dot-gray::after {
 }
 
 input:checked + .switch--pink {
-  background-color: var(--pink-dark);
+  background-color: var(--pink);
 }
 
 input:checked + .switch--dot-pink::after {
@@ -4796,7 +4796,7 @@ input:checked + .switch--dot-pink::after {
 }
 
 input:checked + .switch--red {
-  background-color: var(--red-dark);
+  background-color: var(--red);
 }
 
 input:checked + .switch--dot-red::after {
@@ -4808,7 +4808,7 @@ input:checked + .switch--dot-red::after {
 }
 
 input:checked + .switch--orange {
-  background-color: var(--orange-dark);
+  background-color: var(--orange);
 }
 
 input:checked + .switch--dot-orange::after {
@@ -4820,7 +4820,7 @@ input:checked + .switch--dot-orange::after {
 }
 
 input:checked + .switch--yellow {
-  background-color: var(--yellow-dark);
+  background-color: var(--yellow);
 }
 
 input:checked + .switch--dot-yellow::after {
@@ -4832,7 +4832,7 @@ input:checked + .switch--dot-yellow::after {
 }
 
 input:checked + .switch--green {
-  background-color: var(--green-dark);
+  background-color: var(--green);
 }
 
 input:checked + .switch--dot-green::after {
@@ -4844,7 +4844,7 @@ input:checked + .switch--dot-green::after {
 }
 
 input:checked + .switch--blue {
-  background-color: var(--blue-dark);
+  background-color: var(--blue);
 }
 
 input:checked + .switch--dot-blue::after {
@@ -4856,7 +4856,7 @@ input:checked + .switch--dot-blue::after {
 }
 
 input:checked + .switch--purple {
-  background-color: var(--purple-dark);
+  background-color: var(--purple);
 }
 
 input:checked + .switch--dot-purple::after {
@@ -4868,7 +4868,7 @@ input:checked + .switch--dot-purple::after {
 }
 
 input:checked + .switch--darken25 {
-  background-color: var(--darken50);
+  background-color: var(--darken25);
 }
 
 input:checked + .switch--dot-darken25::after {
@@ -4880,7 +4880,7 @@ input:checked + .switch--dot-darken25::after {
 }
 
 input:checked + .switch--darken50 {
-  background-color: var(--darken75);
+  background-color: var(--darken50);
 }
 
 input:checked + .switch--dot-darken50::after {
@@ -4892,7 +4892,7 @@ input:checked + .switch--dot-darken50::after {
 }
 
 input:checked + .switch--darken75 {
-  background-color: var(--black);
+  background-color: var(--darken75);
 }
 
 input:checked + .switch--dot-darken75::after {
@@ -4904,7 +4904,7 @@ input:checked + .switch--dot-darken75::after {
 }
 
 input:checked + .switch--lighten25 {
-  background-color: var(--lighten50);
+  background-color: var(--lighten25);
 }
 
 input:checked + .switch--dot-lighten25::after {
@@ -4916,7 +4916,7 @@ input:checked + .switch--dot-lighten25::after {
 }
 
 input:checked + .switch--lighten50 {
-  background-color: var(--lighten75);
+  background-color: var(--lighten50);
 }
 
 input:checked + .switch--dot-lighten50::after {
@@ -4928,7 +4928,7 @@ input:checked + .switch--dot-lighten50::after {
 }
 
 input:checked + .switch--lighten75 {
-  background-color: var(--white);
+  background-color: var(--lighten75);
 }
 
 input:checked + .switch--dot-lighten75::after {
@@ -4940,7 +4940,7 @@ input:checked + .switch--dot-lighten75::after {
 }
 
 input:checked + .switch--white {
-  background-color: var(--lighten75);
+  background-color: var(--white);
 }
 
 input:checked + .switch--dot-white::after {
@@ -4952,7 +4952,7 @@ input:checked + .switch--dot-white::after {
 }
 
 input:checked + .switch--transparent {
-  background-color: var(--darken10);
+  background-color: var(--transparent);
 }
 
 input:checked + .switch--dot-transparent::after {
@@ -6984,7 +6984,7 @@ input:checked + .toggle--active-teal {
 }
 
 input:checked + .switch--red {
-  background-color: var(--red-dark);
+  background-color: var(--red);
 }
 
 input:checked + .switch--dot-red::after {
@@ -6996,7 +6996,7 @@ input:checked + .switch--dot-red::after {
 }
 
 input:checked + .switch--teal {
-  background-color: var(--teal-dark);
+  background-color: var(--teal);
 }
 
 input:checked + .switch--dot-teal::after {
