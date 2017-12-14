@@ -3,7 +3,9 @@
 ## 0.21.0
 
 - [style change] Scale down font sizes on small inputs.
-- [breaking] remove `input--xs`, `select--xs`, and `btn--xs`
+- [breaking] remove `input--xs`, `select--xs`, and `btn--xs`.
+- [style change] Switch active state is like checkbox: doesn't use darker color any more
+- [style change] Toggle groups have metrics that are more similar to buttons.
 
 ## 0.20.0
 
